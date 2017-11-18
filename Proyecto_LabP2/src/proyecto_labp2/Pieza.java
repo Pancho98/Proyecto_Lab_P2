@@ -44,6 +44,6 @@ public abstract class Pieza {
         return "Pieza";
     }
     
-    public abstract int [][] mover(int [][] mat);
+    public abstract Object [][] mover(Object [][] mat);
     
 }
